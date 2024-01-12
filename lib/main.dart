@@ -155,7 +155,7 @@ void main() {
                     fontSize: 20,
                     color: Colors.red,
                     fontWeight: FontWeight.bold,
-                    fontWeight: FontWeight.bold,
+
 
                   ),
                 ),
